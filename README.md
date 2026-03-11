@@ -130,8 +130,3 @@ Deploy the application on Streamlit Cloud or AWS
 
 Expand dataset with more crops and diseases
 
-👨‍💻 Author
-
-Developed as a Machine Learning and Web Application project for crop disease prediction.
-
-✅ If you want, I can also give you a professional GitHub README (with badges, screenshots, and deployment section) which looks much stronger in interviews and portfolios.
